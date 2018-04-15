@@ -1,2 +1,3 @@
 *.cs linguist-language=c#
 *.config linguist-language=c#
+*.html linguist-language=c#
