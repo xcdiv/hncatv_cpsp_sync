@@ -1,0 +1,36 @@
+﻿{
+    "guid": "102565616489894415161213"
+    ,"amount":"0.01"
+    , "free": 1
+        ,"free_ex":"poid=123123c001&das=123"
+    , "spcode": "123145"
+    , "title": "百家讲坛"
+    , "title2": "大宋风云-第一期"
+    , "type": "television"
+    , "parent_guid": "1025656164898944151000001"
+    , "no": 1
+    , "class": ["综艺", "科教", "国学"]
+    , "actor": [ "袁腾飞"]
+    , "full_note": "大宋风云-第一期"
+    , "createtime": "2018-01-23 11:01:11"
+    , "changetime": "2018-01-23 11:01:11"
+    , "droptime": "2028-01-23 11:01:11"
+    , "sort": 1000
+    , "player": "OTT"
+    , "img": {
+        "poster": [
+            { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+        ]
+    , "stage": [
+        { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+    ]
+     , "background ": [
+        { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+     ]
+    }
+        , "url": {
+            "href": "http://cp/play.php?id=123123&pgt=#PGT#"
+            , "player": "http://cp/play.php?id=123123&pgt=#PGT#"
+        }
+,"status":200
+}

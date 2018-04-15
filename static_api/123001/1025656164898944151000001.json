@@ -1,0 +1,38 @@
+﻿{
+    "guid": "1025656164898944151000001"
+    ,"amount":"0.01"
+    , "free": 1
+    ,"free_ex":"poid=123123c001&das=123"
+    , "spcode": "123145"
+    , "title": "百家讲坛"
+    , "title2": "大师荟萃"
+    , "type": "television"
+    , "parent_guid": ""
+    , "no":2
+       
+    , "class": ["综艺", "科教","国学"]
+    , "actor": ["王立群", "袁腾飞"]
+    , "full_note": "《百家讲坛》栏目一贯坚持“让专家、学者为百姓服务”的栏目宗旨，栏目在专家、学者和百姓之间架起一座桥梁“一座让专家通向老百姓的桥梁”，从而达到普及优秀中国传统文化的目的。 "
+    , "createtime": "2018-01-23 11:01:11"
+    , "changetime": "2018-01-23 11:01:11"
+    , "droptime": "2028-01-23 11:01:11"
+    , "sort": 1000
+            , "player": "OTT"
+    , "img": {
+        "poster": [
+            { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+        ]
+    , "stage": [
+        { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+    ]
+     , "background ": [
+        { "url": "http://cp/res/1.png", "size": "128x128" }, { "url": "http://cp/res/2.jpg", "size": "512x128" }
+     ]
+    }
+        , "url": {
+            "href": "http://cp/play.php?id=123123&pgt=#PGT#"
+          
+             
+        }
+,"status":200
+}
