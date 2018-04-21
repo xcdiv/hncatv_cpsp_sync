@@ -8,6 +8,7 @@
     , "title2": "大宋风云-第二期"
     , "type": "television"
     , "parent_guid": "1025656164898944151000001"
+        , "chilren_guids":[]
     , "no": 23
     , "class": ["综艺", "科教", "国学"]
     , "actor": [ "袁腾飞"]

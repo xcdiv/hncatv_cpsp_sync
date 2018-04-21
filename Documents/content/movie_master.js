@@ -9,6 +9,7 @@
     , "title2": "机器人大战外星小怪兽"
     , "type": "movie"
     , "parent_guid": ""
+            , "chilren_guids":[]
     , "no":1 
     , "class": ["电影", "科幻"]
     , "actor": ["刘德华", "王晶"]

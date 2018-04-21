@@ -8,6 +8,7 @@
     , "title2": "大师荟萃"
     , "type": "television"
     , "parent_guid": ""
+	        , "chilren_guids":[]
     , "no":2
        
     , "class": ["综艺", "科教","国学"]
